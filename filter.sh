@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+set -e
+
+CONFS=(
+AAAI
+ALENEX
+APPROX
+CSR
+DISC
+ECAI
+ESA
+FOCS
+FSTTCS
+GD
+ICALP
+IJCAI
+IJCNN
+ICML
+LICS
+IPEC
+ISAAC
+ITCS
+LATIN
+MFCS
+PODC
+RANDOM
+SEA
+SODA
+STACS
+SWAT
+SoCG
+WADS
+)
+
+for CONF in "${CONFS[@]}"
+do
+    grep $CONF dupes.txt | trim | sort | uniq -c | sort -n >> count.txt
+done

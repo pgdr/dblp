@@ -15,6 +15,12 @@ def normalize(s):
 
 
 CONFERENCES = {
+    "IJCNN": "International Joint Conference on Neural Networks",
+    "CSR": "Computer Science Symposium in Russia",
+    "APPROX": "Approximation Algorithms for Combinatorial Optimization Problems",
+    "RANDOM": "Randomization and Computation",
+    "ITCS": "Innovations in Theoretical Computer Science",
+    "LATIN": "Latin American Theoretical Informatics Symposium",
     "EMISA": "Entwicklungsmethoden fur Informationssysteme und deren Anwendung",
     "SecCo": "Security Issues in Coordination Models, Languages, and Systems",
     "SECCO": "Security Issues in Coordination Models, Languages, and Systems",
@@ -30,6 +36,7 @@ CONFERENCES = {
     "WoC": "Workshop on Continuations",
     "WWV": "Automated Specification and Verification of Web Systems",
     "SOS": "Structural Operational Semantics",
+    "SOFSEM": "Current Trends in Theory and Practice of Informatics",
     "SCAV": "Safe Control of Autonomous Vehicles",
     "REFINE": "International Refinement Workshop",
     "DCM": "Developments in Computational Models",
@@ -190,6 +197,8 @@ CONFERENCES = {
     "ACL": "Association for Computational Linguistics",
     "ICSEM": "Smart Engineering Materials",
     "COORDINATION": "Coordination Models and Languages",
+    "EUROCOMB": "European Conference on Combinatorics, Graph Theory and Applications",
+    "CoRR": "arXiv",
 }
 
 JOURNALS = {
@@ -403,6 +412,7 @@ JOURNALS = {
     "Algorithmica": "Algorithmica",
     "SICOMP": "SIAM Journal on Computing",
     "COSREV": "Computer Science Review",
+    "CoRR": "arXiv",
 }
 
 
@@ -492,6 +502,7 @@ FORBIDDEN = [
     "introduction",
     "preface",
     "frontmatter",
+    "foreword",
 ]
 
 
@@ -515,6 +526,9 @@ def handle_record(elem, context):
     if type_ == "journal":
         retval = slugify_journal(venue)
         venue = retval
+    if venue == "CoRR":
+        return
+    year = int(first_child_text(elem, "year"))
     H = hash(norm_title)
     item = {
         "type": type_,
@@ -522,9 +536,10 @@ def handle_record(elem, context):
         "title": title,
         "venue": venue,
         "hash": H,
+        "year": year,
     }
-    #TITLES[H].append(item)
-    #if len(TITLES) > 1000*1000:
+    # TITLES[H].append(item)
+    # if len(TITLES) > 1000*1000:
     #    exit("HOLY TOLEDO")
 
     elem.clear()
@@ -590,17 +605,6 @@ def main() -> None:
     )
 
     print(f"Wrote {count} records to {args.output}")
-
-    # counter = 0
-    # for _, items in TITLES.items():
-    #     if len(items) <= 1:
-    #         continue
-    #     counter += 1
-    #     print(counter)
-    #     pprint(items)
-    #     for item in items:
-    #         print("\t", item["venue"])
-    #     print()
 
 
 if __name__ == "__main__":
