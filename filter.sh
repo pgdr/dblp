@@ -35,5 +35,5 @@ WADS
 
 for CONF in "${CONFS[@]}"
 do
-    grep $CONF dupes.txt | trim | sort | uniq -c | sort -n >> count.txt
+    grep $CONF dupes.txt | trim >> count.txt
 done

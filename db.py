@@ -198,6 +198,13 @@ CONFERENCES = {
     "ICSEM": "Smart Engineering Materials",
     "COORDINATION": "Coordination Models and Languages",
     "EUROCOMB": "European Conference on Combinatorics, Graph Theory and Applications",
+    "DL": "Description Logics",
+    "ICIAAAAI": "Interaction Challenges for Intelligent Assistants",
+    "KR": "Principles of Knowledge Representation and Reasoning",
+    "SOCS": "Symposium on Combinatorial Search",
+    "STAIRS": "European Starting AI Researchers Symposium",
+    "AIES": "Conference on AI, Ethics, and Society",
+    "MRC": "Workshop on Machine Reasoning",
     "CoRR": "arXiv",
 }
 
@@ -412,6 +419,9 @@ JOURNALS = {
     "Algorithmica": "Algorithmica",
     "SICOMP": "SIAM Journal on Computing",
     "COSREV": "Computer Science Review",
+    "SIGKDD": "Conference on Knowledge Discovery and Data Mining",
+    "KDD": "Knowledge Discovery and Data Mining",
+    "ICSE": "Conference on Software Engineering",
     "CoRR": "arXiv",
 }
 
@@ -528,7 +538,13 @@ def handle_record(elem, context):
         venue = retval
     if venue == "CoRR":
         return
-    year = int(first_child_text(elem, "year"))
+    year = first_child_text(elem, "year")
+    if year is None:
+        year = 1824
+    try:
+        year = int(year)
+    except:
+        ...
     H = hash(norm_title)
     item = {
         "type": type_,
