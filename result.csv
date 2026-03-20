@@ -1,0 +1,390 @@
+count,conf,journal
+403,FOCS,SIAM J. Comput.
+279,SODA,ACM Trans. Algorithms
+236,SODA,SIAM J. Comput.
+236,FOCS,Electron. Colloquium Comput. Complex.
+209,ESA,Algorithmica
+182,ICALP,Theor. Comput. Sci.
+181,ITCS,Electron. Colloquium Comput. Complex.
+173,ISAAC,Algorithmica
+166,FOCS,J. ACM
+159,APPROX,Electron. Colloquium Comput. Complex.
+156,MFCS,Theor. Comput. Sci.
+156,GD,J. Graph Algorithms Appl.
+153,AAAI,AAAI
+146,PODC,Distributed Comput.
+144,SoCG,Discret. Comput. Geom.
+117,ICALP,Electron. Colloquium Comput. Complex.
+113,STACS,Theory Comput. Syst.
+110,ICALP,ACM Trans. Algorithms
+109,IJCAI,Artif. Intell.
+109,AAAI,Artif. Intell.
+107,ISAAC,Theor. Comput. Sci.
+104,SODA,J. Algorithms
+103,IPEC,Algorithmica
+98,DISC,Distributed Comput.
+96,SoCG,J. Comput. Geom.
+95,ICALP,Inf. Comput.
+94,ICALP,Algorithmica
+88,LATIN,IACR Cryptol. ePrint Arch.
+85,SODA,Algorithmica
+83,LICS,Log. Methods Comput. Sci.
+80,ITCS,IACR Cryptol. ePrint Arch.
+79,STACS,Electron. Colloquium Comput. Complex.
+79,SODA,Electron. Colloquium Comput. Complex.
+78,CSR,Theory Comput. Syst.
+73,AAAI,AI Mag.
+72,LICS,Inf. Comput.
+71,FOCS,IACR Cryptol. ePrint Arch.
+70,STACS,Theor. Comput. Sci.
+70,APPROX,Algorithmica
+69,LATIN,Algorithmica
+67,ESA,Neurocomputing
+66,SODA,SIAM J. Discret. Math.
+66,ICALP,SIAM J. Comput.
+65,FOCS,J. Comput. Syst. Sci.
+62,ISAAC,Int. J. Comput. Geom. Appl.
+61,LATIN,Theor. Comput. Sci.
+60,ICALP,J. Comput. Syst. Sci.
+60,MFCS,Inf. Comput.
+59,ICML,J. Mach. Learn. Res.
+54,ICALP,SIAM J. Discret. Math.
+54,AAMAS,AAAI
+53,ESA,SIAM J. Discret. Math.
+53,SWAT,Algorithmica
+52,AAAI,J. Artif. Intell. Res.
+51,SODA,Random Struct. Algorithms
+50,MFCS,Electron. Colloquium Comput. Complex.
+50,ISAAC,Comput. Geom.
+50,LICS,ACM Trans. Comput. Log.
+49,AAMAS,IJCAI
+49,ICALP,IACR Cryptol. ePrint Arch.
+48,ALENEX,ACM J. Exp. Algorithmics
+47,MFCS,J. Comput. Syst. Sci.
+47,FSTTCS,Electron. Colloquium Comput. Complex.
+45,ESA,ACM Trans. Algorithms
+44,APPROX,Theory Comput.
+44,IJCAI,J. Artif. Intell. Res.
+44,SODA,Discret. Comput. Geom.
+43,STACS,J. Comput. Syst. Sci.
+42,FSTTCS,Theor. Comput. Sci.
+42,STACS,Inf. Comput.
+42,IJCAI,AAAI
+41,SODA,J. ACM
+39,ISAAC,Discret. Appl. Math.
+38,STACS,Algorithmica
+38,MFCS,Algorithmica
+37,GD,Comput. Geom.
+36,STACS,SIAM J. Discret. Math.
+36,STACS,SIAM J. Comput.
+35,SEA,ACM J. Exp. Algorithmics
+33,PODC,J. ACM
+32,ESA,Theor. Comput. Sci.
+32,APPROX,Random Struct. Algorithms
+32,SODA,Math. Oper. Res.
+32,GD,GD
+30,ESA,Comput. Geom.
+29,SWAT,J. Comput. Syst. Sci.
+29,FOCS,Comb.
+29,GD,Algorithmica
+28,DISC,PODC
+28,ESA,J. Comput. Syst. Sci.
+27,PODC,SIAM J. Comput.
+27,ICALP,Log. Methods Comput. Sci.
+27,AAAI,ICIAAAAI
+27,CSR,Electron. Colloquium Comput. Complex.
+27,FSTTCS,Algorithmica
+27,MFCS,ACM Trans. Comput. Theory
+26,ICALP,J. ACM
+26,ICML,ICLR
+26,LICS,Ann. Pure Appl. Log.
+26,SOCS,AAAI
+25,ISAAC,J. Comb. Optim.
+24,APPROX,SIAM J. Discret. Math.
+24,PODC,IACR Cryptol. ePrint Arch.
+24,STACS,ACM Trans. Comput. Theory
+23,LICS,J. ACM
+23,IJCAI,IJCAI
+23,GD,Discret. Comput. Geom.
+22,SOFSEM,Theor. Comput. Sci.
+22,LICS,Theor. Comput. Sci.
+22,SODA,Math. Program.
+22,FSTTCS,Inf. Comput.
+22,FOCS,IEEE Trans. Inf. Theory
+22,ICALP,ACM Trans. Comput. Theory
+21,ISAAC,Theory Comput. Syst.
+21,SWAT,Theor. Comput. Sci.
+21,GD,Theor. Comput. Sci.
+21,ESA,SIAM J. Comput.
+20,SODA,J. Comput. Syst. Sci.
+20,ISAAC,J. Comput. Syst. Sci.
+20,SODA,Comb.
+19,IJCNN,Neural Networks
+19,IJCNN,IJCNN
+19,MFCS,Discret. Appl. Math.
+18,IPEC,Theor. Comput. Sci.
+18,APPROX,Theor. Comput. Sci.
+18,ICML,Mach. Learn.
+18,ESA,ESA
+17,FOCS,Theor. Comput. Sci.
+17,FSTTCS,J. Comput. Syst. Sci.
+17,SWAT,J. Algorithms
+17,IJCNN,IEEE Trans. Neural Networks
+17,APPROX,IEEE Trans. Inf. Theory
+17,FOCS,Algorithmica
+17,APPROX,ACM Trans. Comput. Theory
+16,MFCS,Theory Comput. Syst.
+16,SODA,Theor. Comput. Sci.
+16,MFCS,SIAM J. Discret. Math.
+16,ITCS,SIAM J. Comput.
+16,FOCS,Random Struct. Algorithms
+16,GD,J. Comput. Geom.
+16,SODA,IEEE Trans. Inf. Theory
+16,SWAT,IEEE Trans. Computers
+16,SODA,Games Econ. Behav.
+16,ESA,Discret. Comput. Geom.
+16,APPROX,ACM Trans. Algorithms
+16,ECAI,AAAI
+15,FOCS,Theory Comput.
+15,APPROX,SIAM J. Comput.
+15,SWAT,Nord. J. Comput.
+15,FOCS,Math. Oper. Res.
+15,ESA,J. Algorithms
+15,SODA,IACR Cryptol. ePrint Arch.
+15,IJCAI,DL
+15,FOCS,Discret. Comput. Geom.
+15,SWAT,Comput. Geom.
+15,FOCS,Comput. Complex.
+15,SODA,Comb. Probab. Comput.
+15,ITCS,ACM Trans. Comput. Theory
+15,SoCG,ACM Trans. Algorithms
+15,ESA,ACM J. Exp. Algorithmics
+14,ISAAC,SIAM J. Discret. Math.
+14,SODA,J. Comb. Theory B
+14,ICALP,J. Algorithms
+14,IJCAI,IEEE Trans. Computers
+14,DISC,IACR Cryptol. ePrint Arch.
+14,AAMAS,ECAI
+14,SODA,Comput. Geom.
+14,SoCG,Comput. Geom.
+14,IJCAI,Auton. Agents Multi Agent Syst.
+14,STACS,ACM Trans. Algorithms
+14,PODC,ACM SIGOPS Oper. Syst. Rev.
+13,ICALP,Theory Comput. Syst.
+13,SODA,Theory Comput.
+13,ICALP,Random Struct. Algorithms
+13,IJCNN,Neurocomputing
+13,ICALP,Math. Oper. Res.
+13,FOCS,J. Algorithms
+13,ISAAC,Inf. Process. Lett.
+13,ICALP,Inf. Control.
+12,ISAAC,J. Comput. Geom.
+12,ESA,J. Comput. Geom.
+12,PODC,Inf. Comput.
+12,IJCAI,ECAI
+12,ECAI,ECAI
+12,AAAI,DL
+12,APPROX,Comb. Probab. Comput.
+12,MFCS,Acta Informatica
+11,ICALP,Theory Comput.
+11,IJCAI,Theor. Comput. Sci.
+11,DISC,Theor. Comput. Sci.
+11,SODA,Inf. Comput.
+11,IJCAI,IEEE Trans. Pattern Anal. Mach. Intell.
+11,ICALP,IEEE Trans. Inf. Theory
+11,MFCS,Fundam. Informaticae
+11,STACS,Discret. Appl. Math.
+11,LATIN,Comput. Geom.
+11,ICALP,ACM Trans. Comput. Log.
+10,ITCS,Theory Comput.
+10,CSR,Theor. Comput. Sci.
+10,AAAI,Soc. Choice Welf.
+10,LICS,SIAM J. Comput.
+10,STACS,RAIRO Theor. Informatics Appl.
+10,ICALP,Math. Program.
+10,AAAI,Mach. Learn.
+10,STACS,Log. Methods Comput. Sci.
+10,MFCS,Log. Methods Comput. Sci.
+10,ISAAC,J. Discrete Algorithms
+10,STACS,J. Algorithms
+10,ISAAC,J. Algorithms
+10,SWAT,J. ACM
+10,SoCG,J. ACM
+10,ISAAC,Int. J. Found. Comput. Sci.
+10,ISAAC,Electron. Colloquium Comput. Complex.
+10,ICALP,Discret. Appl. Math.
+10,SoCG,Algorithmica
+10,ESA,ACM Trans. Comput. Theory
+10,UAI,AAAI
+9,ICALP,TheoretiCS
+9,PODC,Theor. Comput. Sci.
+9,AAAI,Theor. Comput. Sci.
+9,PODC,SPAA
+9,SoCG,SIAM J. Discret. Math.
+9,FOCS,SIAM J. Discret. Math.
+9,SoCG,SIAM J. Comput.
+9,MFCS,SIAM J. Comput.
+9,MFCS,RAIRO Theor. Informatics Appl.
+9,ESA,Math. Program.
+9,LICS,J. Symb. Log.
+9,SODA,J. Sched.
+9,IPEC,J. Comput. Syst. Sci.
+9,FSTTCS,J. Algorithms
+9,ISAAC,Inf. Comput.
+9,FOCS,Inf. Comput.
+9,AAAI,IEEE Trans. Pattern Anal. Mach. Intell.
+9,ITCS,IEEE Trans. Inf. Theory
+9,ICML,IEEE Trans. Inf. Theory
+9,FOCS,Games Econ. Behav.
+9,GD,Discret. Math.
+9,ISAAC,Discret. Comput. Geom.
+9,PODC,Algorithmica
+9,ICALP,ACM Trans. Economics and Comput.
+9,FOCS,ACM Trans. Algorithms
+8,FSTTCS,Theory Comput. Syst.
+8,ISAAC,SIAM J. Comput.
+8,SODA,Oper. Res.
+8,SODA,Networks
+8,LICS,Math. Struct. Comput. Sci.
+8,IJCAI,Mach. Learn.
+8,AAAI,KR
+8,ICML,IJCAI
+8,LICS,Electron. Colloquium Comput. Complex.
+8,IPEC,Electron. Colloquium Comput. Complex.
+8,ICALP,Distributed Comput.
+8,ISAAC,Discret. Optim.
+8,ISAAC,Discret. Math.
+8,ICALP,Discret. Comput. Geom.
+8,STACS,Comput. Complex.
+8,AAAI,Auton. Agents Multi Agent Syst.
+8,ITCS,Algorithmica
+8,SOFSEM,Acta Informatica
+8,FSTTCS,ACM Trans. Comput. Theory
+8,MFCS,ACM Trans. Comput. Log.
+8,SWAT,ACM Trans. Algorithms
+8,nmr,AAAI
+7,SODA,TheoretiCS
+7,IJCAI,SOCS
+7,FSTTCS,SIAM J. Discret. Math.
+7,FSTTCS,Log. Methods Comput. Sci.
+7,DISC,J. Parallel Distributed Comput.
+7,ISAAC,J. Graph Algorithms Appl.
+7,SOFSEM,J. Comput. Syst. Sci.
+7,SWAT,J. Biomed. Semant.
+7,IJCAI,J. ACM
+7,SWAT,Inf. Control.
+7,ESA,Inf. Comput.
+7,ICML,IEEE Trans. Pattern Anal. Mach. Intell.
+7,PODC,IEEE Trans. Parallel Distributed Syst.
+7,ICML,IACR Cryptol. ePrint Arch.
+7,STACS,"Forschungsberichte, TU Munich"
+7,ESA,Electron. Colloquium Comput. Complex.
+7,ECAI,DL
+7,SWAT,Discret. Appl. Math.
+7,SOFSEM,Discret. Appl. Math.
+7,LATIN,Discret. Appl. Math.
+7,IPEC,Discret. Appl. Math.
+7,ESA,Discret. Appl. Math.
+7,STACS,Comput. Geom.
+7,MFCS,Comput. Complex.
+7,IJCAI,CC
+7,SWAT,BIT
+7,PODC,Ad Hoc Networks
+7,PODC,ACM Trans. Algorithms
+7,isaim,AAAI
+6,LATIN,Theory Comput. Syst.
+6,IPEC,Theory Comput. Syst.
+6,FOCS,TheoretiCS
+6,ECAI,STAIRS
+6,FOCS,SIGecom Exch.
+6,SWAT,SIAM J. Discret. Math.
+6,LATIN,SIAM J. Discret. Math.
+6,GD,SIAM J. Discret. Math.
+6,FSTTCS,SIAM J. Comput.
+6,STACS,Random Struct. Algorithms
+6,SOFSEM,RAIRO Theor. Informatics Appl.
+6,ITCS,Quantum
+6,CC,PODC
+6,FOCS,Math. Program.
+6,APPROX,Math. Program.
+6,DISC,J. Symb. Comput.
+6,AAAI,J. Mach. Learn. Res.
+6,ESA,J. Graph Algorithms Appl.
+6,LICS,J. Comput. Syst. Sci.
+6,IJCAI,J. Comput. Syst. Sci.
+6,SWAT,J. Comput. Geom.
+6,ICALP,J. Comb. Theory B
+6,GD,Int. J. Found. Comput. Sci.
+6,AAAI,Int. J. Comput. Vis.
+6,MFCS,Inf. Process. Lett.
+6,GD,Inf. Process. Lett.
+6,FSTTCS,Inf. Process. Lett.
+6,FOCS,Inf. Control.
+6,SWAT,Inf. Comput.
+6,AAAI,Inf. Comput.
+6,cp,IJCAI
+6,DISC,IEEE Trans. Parallel Distributed Syst.
+6,IJCAI,IEEE Trans. Knowl. Data Eng.
+6,LICS,ICALP
+6,GD,Graphs Comb.
+6,AAAI,Games Econ. Behav.
+6,GD,Electron. J. Comb.
+6,nmr,ECAI
+6,STACS,Discret. Comput. Geom.
+6,APPROX,Discret. Appl. Math.
+6,SoCG,Comb.
+6,ECAI,Artif. Intell.
+6,AAAI,Algorithmica
+6,AAAI,AIES
+6,FSTTCS,Acta Informatica
+6,STACS,ACM Trans. Comput. Log.
+6,FSTTCS,ACM Trans. Comput. Log.
+6,IJCAI,ACL
+6,hlt,AAAI
+6,CVPR,AAAI
+5,SOFSEM,Theory Comput. Syst.
+5,LICS,TheoretiCS
+5,IJCAI,Soc. Choice Welf.
+5,AAAI,SIAM J. Discret. Math.
+5,SWAT,SIAM J. Comput.
+5,ESA,Random Struct. Algorithms
+5,opodis,PODC
+5,IJCAI,Pattern Recognit.
+5,IJCAI,MRC
+5,MFCS,Math. Syst. Theory
+5,IJCAI,kdd
+5,PODC,J. Parallel Distributed Comput.
+5,IJCAI,J. Log. Comput.
+5,GD,J. Graph Theory
+5,SWAT,J. Discrete Algorithms
+5,MFCS,J. Discrete Algorithms
+5,PODC,J. Comput. Syst. Sci.
+5,AAAI,J. Comput. Syst. Sci.
+5,MFCS,J. Algorithms
+5,AAAI,J. ACM
+5,SOFSEM,Int. J. Found. Comput. Sci.
+5,MFCS,Int. J. Found. Comput. Sci.
+5,SODA,Int. J. Comput. Geom. Appl.
+5,GD,Int. J. Comput. Geom. Appl.
+5,SWAT,Inf. Process. Lett.
+5,LATIN,Inf. Comput.
+5,AAAI,IEEE Trans. Knowl. Data Eng.
+5,SOFSEM,IACR Cryptol. ePrint Arch.
+5,FSTTCS,IACR Cryptol. ePrint Arch.
+5,IJCAI,Games Econ. Behav.
+5,GD,Eur. J. Comb.
+5,ISAAC,Electron. J. Comb.
+5,LATIN,Electron. Colloquium Comput. Complex.
+5,STACS,Discret. Math. Theor. Comput. Sci.
+5,SWAT,Discret. Comput. Geom.
+5,GD,Discret. Appl. Math.
+5,IJCAI,Comput. Intell.
+5,ITCS,Comput. Complex.
+5,ISAAC,Comput. Complex.
+5,SWAT,BMC Bioinform.
+5,IJCAI,AI Commun.
+5,ICALP,Acta Informatica
+5,AAAI,ACM Trans. Economics and Comput.
+5,AAAI,AAMAS
+5,ICAPS,AAAI
+5,CC,AAAI
