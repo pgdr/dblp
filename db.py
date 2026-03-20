@@ -206,7 +206,17 @@ CONFERENCES = {
     "AIES": "Conference on AI, Ethics, and Society",
     "MRC": "Workshop on Machine Reasoning",
     "CoRR": "arXiv",
+    "DagstuhlCBF": "Complexity of Boolean Functions",
+    "UAI": "Uncertainty in Artificial Intelligence",
+    "EUMAS": "European Conference on Multi-Agent Systems",
+    "ICTRS": "International Conference on Telecommunications and Remote Sensing",
+    "RTA": "Rewriting Techniques and Applications",
+    "CTRS": "Conditional Term Rewriting Systems",
+    "SIGKDD": "Conference on Knowledge Discovery and Data Mining",
+    "ICSE": "Conference on Software Engineering",
+    "JELIA": "European Conference on Logics in Artificial Intelligence",
 }
+
 
 JOURNALS = {
     "ACMCR": "ACM Computing Reviews",
@@ -421,9 +431,14 @@ JOURNALS = {
     "COSREV": "Computer Science Review",
     "SIGKDD": "Conference on Knowledge Discovery and Data Mining",
     "KDD": "Knowledge Discovery and Data Mining",
+    "TKDD": "ACM Transactions on Knowledge Discovery from Data",
     "ICSE": "Conference on Software Engineering",
     "JELIA": "European Conference on Logics in Artificial Intelligence",
     "CoRR": "arXiv",
+    "JSE": "Journal of Software Engineering",
+    "OJVT": "Open Journal of Vehicular Technology",
+    "VTS": "Journal of Vehicular Technology",
+    "EC": "European Journal of Combinatorics",
 }
 
 
