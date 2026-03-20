@@ -422,6 +422,7 @@ JOURNALS = {
     "SIGKDD": "Conference on Knowledge Discovery and Data Mining",
     "KDD": "Knowledge Discovery and Data Mining",
     "ICSE": "Conference on Software Engineering",
+    "JELIA": "European Conference on Logics in Artificial Intelligence",
     "CoRR": "arXiv",
 }
 
