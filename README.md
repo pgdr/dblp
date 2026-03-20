@@ -8,3 +8,9 @@ rm -f dupes.txt && python db.py dblp.xml.gz && python readjson.py dblp_items.jso
 
 
 You need `wget https://dblp.uni-trier.de/xml/dblp.xml.gz` first.
+
+To get the final result, one can also
+
+```bash
+cat count.csv | trim | ph query count 5 | ph columns count conf journal > out.csv
+```
