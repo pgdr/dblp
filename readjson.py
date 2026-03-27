@@ -10,14 +10,19 @@ def print_duplicate_hash_venues(json_path):
     data.sort(key=lambda item: (item.get("hash"), item.get("type")))
     last = 42
     last_venue = ""
+    last_type = ""
     print("conference,journal")
     for idx, item in enumerate(data):
         H = item.get("hash")
         this_venue = item.get("venue")
+        this_type = item["type"]
         if H == last:
-            print(f'"{last_venue}","{this_venue}"')
+            if this_type == "journal" and last_type == "conference":
+                print(f'"{last_venue}","{this_venue}"')
         last = H
         last_venue = this_venue
+        last_type = this_type
+
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:

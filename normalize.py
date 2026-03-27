@@ -4,6 +4,7 @@ import sys
 from collections import defaultdict
 import math
 
+
 def R(x, r=1):
     return math.ceil(100 * x)
 

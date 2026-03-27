@@ -215,6 +215,12 @@ CONFERENCES = {
     "SIGKDD": "Conference on Knowledge Discovery and Data Mining",
     "ICSE": "Conference on Software Engineering",
     "JELIA": "European Conference on Logics in Artificial Intelligence",
+    "UAI": "Uncertainty in Artificial Intelligence",
+    "CP": "Principles and Practice of Constraint Programming",
+    "HLT": "Human Language Technology",
+    "ISAIM": "Artificial Intelligence and Mathematics",
+    "NMR": "Nonmonotonic Reasoning",
+    "OPODIS": "Principles of Distributed Systems",
 }
 
 
@@ -264,6 +270,7 @@ JOURNALS = {
     "DTA": "Data Technologies and Applications",
     "DMTCS": "Discrete Mathematics & Theoretical Computer Science",
     "DistribComput": "Distributed Computing",
+    "ECCC": "Electron. Colloquium Comput. Complex.",
     "EISEJ": "e-Informatica Software Engineering Journal",
     "ELCVIA": "Electronic Letters on Computer Vision and Image Analysis",
     "ENTCS": "Electronic Notes in Theoretical Computer Science",
@@ -440,6 +447,24 @@ JOURNALS = {
     "VTS": "Journal of Vehicular Technology",
     "EC": "European Journal of Combinatorics",
 }
+
+
+def journal_rewrite(s):
+    JOURNAL_ABBREVS = {
+        "J. Graph Algorithms Appl.": "JGAA",
+        "Electron. Colloquium Comput. Complex.": "ECCC",
+        "J. Comput. Syst. Sci.": "JCSS",
+        "Theor. Comput. Sci.": "TCS",
+        "Theory Comput. Syst.": "TCS",
+        "J. ACM": "JACM",
+        "Mach. Learn.": "ML",
+        "J. Comput. Geom.": "JoCG",
+        "Comput. Geom.": "Computational Geometry",
+        "Discret. Comput. Geom.": "Discrete & Computational Geometry",
+        "Int. J. Comput. Geom. Appl.": "IJCGA",
+    }
+    if s in JOURNAL_ABBREVS:
+        return JOURNAL_ABBREVS[s]
 
 
 for k, v in list(CONFERENCES.items()):
