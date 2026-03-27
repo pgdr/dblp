@@ -14,3 +14,7 @@ To get the final result, one can also
 ```bash
 cat count.csv | trim | ph query count 5 | ph columns count conf journal > out.csv
 ```
+
+```bash
+jq 'map(select(.venue == "opodis"))' dblp_items.json
+```
