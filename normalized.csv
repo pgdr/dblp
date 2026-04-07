@@ -21,17 +21,6 @@ count,conf,journal
 2,AAAI,J. Comput. Syst. Sci.
 2,AAAI,J. Mach. Learn. Res.
 2,AAAI,SIAM J. Discret. Math.
-1,AAAI,ACM Trans. Comput. Theory
-1,AAAI,ACM Trans. Intell. Syst. Technol.
-1,AAAI,Ann. Math. Artif. Intell.
-1,AAAI,Commun. ACM
-1,AAAI,Comput. Graph.
-1,AAAI,IEEE Trans. Image Process.
-1,AAAI,Int. J. Approx. Reason.
-1,AAAI,J. Autom. Reason.
-1,AAAI,J. Sched.
-1,AAAI,Knowl. Eng. Rev.
-1,AAAI,Math. Program.
 100,ALENEX,ACM J. Exp. Algorithmics
 35,APPROX,Electron. Colloquium Comput. Complex.
 16,APPROX,Algorithmica
@@ -46,14 +35,6 @@ count,conf,journal
 3,APPROX,Comb. Probab. Comput.
 2,APPROX,Discret. Appl. Math.
 2,APPROX,Math. Program.
-1,APPROX,Comb.
-1,APPROX,Comput. Complex.
-1,APPROX,Comput. Geom.
-1,APPROX,Discret. Comput. Geom.
-1,APPROX,IACR Cryptol. ePrint Arch.
-1,APPROX,Inf. Comput.
-1,APPROX,J. Comput. Syst. Sci.
-1,APPROX,Math. Oper. Res.
 66,CSR,Theory Comput. Syst.
 23,CSR,Electron. Colloquium Comput. Complex.
 9,CSR,Theor. Comput. Sci.
@@ -88,16 +69,6 @@ count,conf,journal
 2,ESA,Inf. Comput.
 2,ESA,J. Comput. Geom.
 2,ESA,Math. Program.
-1,ESA,Algorithms
-1,ESA,Comb.
-1,ESA,IACR Cryptol. ePrint Arch.
-1,ESA,Inf. Process. Lett.
-1,ESA,Int. J. Comput. Geom. Appl.
-1,ESA,J. Comb. Optim.
-1,ESA,J. Graph Algorithms Appl.
-1,ESA,Math. Oper. Res.
-1,ESA,Random Struct. Algorithms
-1,ESA,Theory Comput. Syst.
 34,FOCS,SIAM J. Comput.
 20,FOCS,Electron. Colloquium Comput. Complex.
 14,FOCS,J. ACM
@@ -113,23 +84,6 @@ count,conf,journal
 2,FOCS,Random Struct. Algorithms
 2,FOCS,Theor. Comput. Sci.
 2,FOCS,Theory Comput.
-1,FOCS,ACM Trans. Algorithms
-1,FOCS,Ann. Pure Appl. Log.
-1,FOCS,Commun. ACM
-1,FOCS,Comput. Geom.
-1,FOCS,Found. Comput. Math.
-1,FOCS,Games Econ. Behav.
-1,FOCS,IEEE Ann. Hist. Comput.
-1,FOCS,Inf. Comput.
-1,FOCS,Inf. Control.
-1,FOCS,J. Comb. Theory B
-1,FOCS,Mach. Learn.
-1,FOCS,Math. Program.
-1,FOCS,Math. Syst. Theory
-1,FOCS,SIAM J. Discret. Math.
-1,FOCS,SIAM Rev.
-1,FOCS,SIGecom Exch.
-1,FOCS,TheoretiCS
 20,FSTTCS,Electron. Colloquium Comput. Complex.
 18,FSTTCS,Theor. Comput. Sci.
 12,FSTTCS,Algorithmica
@@ -168,10 +122,6 @@ count,conf,journal
 2,GD,J. Discrete Algorithms
 2,GD,J. Graph Theory
 2,GD,SIAM J. Discret. Math.
-1,GD,Comb.
-1,GD,Comput. Geom. Topol.
-1,GD,Discret. Math. Theor. Comput. Sci.
-1,GD,IEEE Trans. Vis. Comput. Graph.
 17,ICALP,Theor. Comput. Sci.
 11,ICALP,Electron. Colloquium Comput. Complex.
 10,ICALP,ACM Trans. Algorithms
@@ -189,33 +139,6 @@ count,conf,journal
 2,ICALP,Math. Oper. Res.
 2,ICALP,Random Struct. Algorithms
 2,ICALP,Theory Comput. Syst.
-1,ICALP,ACM Trans. Comput. Log.
-1,ICALP,ACM Trans. Economics and Comput.
-1,ICALP,Acta Informatica
-1,ICALP,Ann. Math. Artif. Intell.
-1,ICALP,Comb.
-1,ICALP,Comb. Probab. Comput.
-1,ICALP,Comput. Complex.
-1,ICALP,Discret. Appl. Math.
-1,ICALP,Discret. Comput. Geom.
-1,ICALP,Distributed Comput.
-1,ICALP,Formal Methods Syst. Des.
-1,ICALP,Fundam. Informaticae
-1,ICALP,IEEE/ACM Trans. Netw.
-1,ICALP,IEEE Trans. Inf. Theory
-1,ICALP,Int. J. Algebra Comput.
-1,ICALP,J. Comb. Theory A
-1,ICALP,J. Comb. Theory B
-1,ICALP,J. Cryptol.
-1,ICALP,J. Discrete Algorithms
-1,ICALP,J. Log. Algebraic Methods Program.
-1,ICALP,J. Symb. Comput.
-1,ICALP,Math. Program.
-1,ICALP,Math. Struct. Comput. Sci.
-1,ICALP,Math. Syst. Theory
-1,ICALP,Nord. J. Comput.
-1,ICALP,TheoretiCS
-1,ICALP,Theory Comput.
 50,ICML,J. Mach. Learn. Res.
 15,ICML,Mach. Learn.
 8,ICML,IEEE Trans. Inf. Theory
@@ -289,19 +212,6 @@ count,conf,journal
 2,ISAAC,J. Discrete Algorithms
 2,ISAAC,J. Graph Algorithms Appl.
 2,ISAAC,SIAM J. Comput.
-1,ISAAC,ACM Trans. Algorithms
-1,ISAAC,ACM Trans. Comput. Theory
-1,ISAAC,Algorithms
-1,ISAAC,Chic. J. Theor. Comput. Sci.
-1,ISAAC,Comput. Complex.
-1,ISAAC,Discret. Math. Algorithms Appl.
-1,ISAAC,Electron. J. Comb.
-1,ISAAC,Eur. J. Oper. Res.
-1,ISAAC,IEEE Trans. Inf. Theory
-1,ISAAC,IEICE Trans. Fundam. Electron. Commun. Comput. Sci.
-1,ISAAC,J. Comput. Biol.
-1,ISAAC,J. Sched.
-1,ISAAC,Networks
 53,ITCS,Electron. Colloquium Comput. Complex.
 24,ITCS,IACR Cryptol. ePrint Arch.
 5,ITCS,ACM Trans. Comput. Theory
@@ -312,8 +222,6 @@ count,conf,journal
 2,ITCS,Comput. Complex.
 2,ITCS,Multim. Tools Appl.
 2,ITCS,Quantum
-1,ITCS,Games Econ. Behav.
-1,ITCS,J. Comput. Syst. Sci.
 31,LATIN,IACR Cryptol. ePrint Arch.
 25,LATIN,Algorithmica
 22,LATIN,Theor. Comput. Sci.
@@ -343,7 +251,6 @@ count,conf,journal
 3,LICS,Math. Struct. Comput. Sci.
 2,LICS,J. Comput. Syst. Sci.
 2,LICS,TheoretiCS
-1,LICS,ACM Trans. Program. Lang. Syst.
 28,MFCS,Theor. Comput. Sci.
 11,MFCS,Inf. Comput.
 9,MFCS,Electron. Colloquium Comput. Complex.
@@ -361,24 +268,6 @@ count,conf,journal
 2,MFCS,Log. Methods Comput. Sci.
 2,MFCS,RAIRO Theor. Informatics Appl.
 2,MFCS,SIAM J. Comput.
-1,MFCS,Ann. Pure Appl. Log.
-1,MFCS,Comput. Geom.
-1,MFCS,Discret. Comput. Geom.
-1,MFCS,Discret. Optim.
-1,MFCS,Eur. J. Comb.
-1,MFCS,Grammars
-1,MFCS,IACR Cryptol. ePrint Arch.
-1,MFCS,Inf. Control.
-1,MFCS,Int. J. Algebra Comput.
-1,MFCS,Int. J. Found. Comput. Sci.
-1,MFCS,J. Algorithms
-1,MFCS,J. Comb. Optim.
-1,MFCS,J. Complex.
-1,MFCS,J. Discrete Algorithms
-1,MFCS,J. Graph Algorithms Appl.
-1,MFCS,J. Log. Comput.
-1,MFCS,Math. Log. Q.
-1,MFCS,Math. Syst. Theory
 45,PODC,Distributed Comput.
 11,PODC,J. ACM
 9,PODC,SIAM J. Comput.
@@ -394,11 +283,6 @@ count,conf,journal
 2,PODC,Comput. Networks
 2,PODC,J. Comput. Syst. Sci.
 2,PODC,J. Parallel Distributed Comput.
-1,PODC,Bull. EATCS
-1,PODC,Electron. Colloquium Comput. Complex.
-1,PODC,IEEE Trans. Inf. Theory
-1,PODC,J. Algorithms
-1,PODC,SIAM J. Discret. Math.
 100,RANDOM,Random Struct. Algorithms
 78,SEA,ACM J. Exp. Algorithmics
 9,SEA,Algorithmica
@@ -425,22 +309,6 @@ count,conf,journal
 2,SODA,Math. Program.
 2,SODA,Theor. Comput. Sci.
 2,SODA,Theory Comput.
-1,SODA,ACM Trans. Comput. Theory
-1,SODA,Discret. Appl. Math.
-1,SODA,Distributed Comput.
-1,SODA,Electron. J. Comb.
-1,SODA,Inf. Comput.
-1,SODA,Inf. Process. Lett.
-1,SODA,Internet Math.
-1,SODA,Int. J. Comput. Geom. Appl.
-1,SODA,J. Comput. Biol.
-1,SODA,J. Cryptol.
-1,SODA,J. Graph Algorithms Appl.
-1,SODA,J. Mach. Learn. Res.
-1,SODA,J. Sched.
-1,SODA,Networks
-1,SODA,Oper. Res.
-1,SODA,TheoretiCS
 27,SOFSEM,Theor. Comput. Sci.
 10,SOFSEM,Acta Informatica
 9,SOFSEM,Discret. Appl. Math.
@@ -471,24 +339,6 @@ count,conf,journal
 2,STACS,J. Algorithms
 2,STACS,Log. Methods Comput. Sci.
 2,STACS,RAIRO Theor. Informatics Appl.
-1,STACS,ACM Trans. Comput. Log.
-1,STACS,Acta Informatica
-1,STACS,Discret. Comput. Geom.
-1,STACS,Discret. Math. Theor. Comput. Sci.
-1,STACS,IEEE Trans. Inf. Theory
-1,STACS,Inf. Process. Lett.
-1,STACS,Int. J. Found. Comput. Sci.
-1,STACS,J. ACM
-1,STACS,J. Comb. Theory B
-1,STACS,J. Comput. Geom.
-1,STACS,J. Discrete Algorithms
-1,STACS,J. Log. Comput.
-1,STACS,Math. Program.
-1,STACS,Networks
-1,STACS,Nord. J. Comput.
-1,STACS,Random Struct. Algorithms
-1,STACS,Theory Comput.
-1,STACS,"Universit&auml;t Trier, Mathematik/Informatik, Forschungsbericht"
 20,SWAT,Algorithmica
 11,SWAT,J. Comput. Syst. Sci.
 8,SWAT,Theor. Comput. Sci.
@@ -526,5 +376,3 @@ count,conf,journal
 2,SoCG,Comb.
 2,SoCG,Found. Comput. Math.
 2,SoCG,J. Comb. Theory B
-1,SoCG,Comb. Probab. Comput.
-1,SoCG,J. Comb. Theory A
