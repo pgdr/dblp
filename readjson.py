@@ -17,8 +17,10 @@ def print_duplicate_hash_venues(json_path):
         this_venue = item.get("venue")
         this_type = item["type"]
         if H == last:
-            if this_type == "journal" and last_type == "conference":
+            if this_type == "article" and last_type == "inproceedings":
                 print(f'"{last_venue}","{this_venue}"')
+            if last_type == "article" and this_type == "inproceedings":
+                print(f'"{this_venue}","{last_venue}"')
         last = H
         last_venue = this_venue
         last_type = this_type
